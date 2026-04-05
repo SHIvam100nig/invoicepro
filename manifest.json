@@ -1,0 +1,20 @@
+{
+  "name": "Jewel Invoice Pro",
+  "short_name": "JewelInvoice",
+  "start_url": "./jewellery-invoice.html",
+  "display": "standalone",
+  "background_color": "#0D0D0D",
+  "theme_color": "#C9A84C",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
